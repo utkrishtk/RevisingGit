@@ -1,0 +1,14 @@
+{
+  "name": "gitinonevideo",
+  "version": "1.0.0",
+  "description": "Git in one video by code with harry",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Utkrisht Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
